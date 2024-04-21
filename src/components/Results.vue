@@ -45,7 +45,6 @@ export default {
     color: green;
     font-size: 1.8rem;
     font-weight: bold;
-
 }
 .grasshopper{
     color: yellow;

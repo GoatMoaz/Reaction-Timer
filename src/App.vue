@@ -226,5 +226,4 @@ export default {
 .buttons button:focus {
   outline: 0;
 }
-
 </style>
