@@ -1,7 +1,3 @@
-# Reaction Timer
-
-This project is a simple web application built with Vue.js to test your reflexes. The Reaction Timer game measures how quickly you can click a target after it appears on the screen.
-
 ## Getting Started
 
 To run this project locally, follow these steps:
